@@ -11,8 +11,8 @@ namespace NeoConsole_SteamAddon;
 public class NeoConsole_SteamAddon : Mod
 {
     public override string Author => "Nylux";
-    public override string Name => "NeoConsole Addon - Steam Achievements";
-    public override string Description => "Adds commands related to steam achievemnts. Requires NeoConsole.";
+    public override string Name => "NeoConsole Addon - Steam";
+    public override string Description => "Adds commands unique to steam. Requires NeoConsole.";
     public override string Version => "1.0.0";
 
     public override void PatchMod()
