@@ -1,0 +1,2 @@
+ ds_map_add(helpUsageMap, "clear_achievements", ["Description :", "Fully resets the player's steam achievements."])
+ds_map_add(helpUsageMap, "unlock_achievement", ["Arguments :", "    mode : Either 'all' to unlock all achievement or 'list' to list all achievement and their id.", "    id : The id of the achievement you want to unlock.", "Description :", "Lists all achievements and their id, or unlocks one or all achievements"])
